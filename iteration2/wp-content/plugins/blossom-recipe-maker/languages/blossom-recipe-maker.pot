@@ -1,0 +1,1402 @@
+# Copyright (C) 2021 blossomthemes
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blossom Recipe Maker 1.0.7\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-26 08:05:35+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2021-MO-DA HO:MI+ZONE\n"
+"Last-Translator: WP Travel Engine\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: ../../blossom-recipe-maker\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: grunt-wp-i18n1.0.2\n"
+
+#: includes/class-blossom-recipe-hook-functions.php:409
+#: includes/class-blossom-recipe-hook-functions.php:533
+msgid "0"
+msgstr ""
+
+#: includes/backend/settings/misc.php:92
+msgid "10"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:110
+msgid "Are you sure you want to delete this ingredient?"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:112
+#: admin/class-blossom-recipe-admin.php:119
+msgid "Are you sure you want to delete this Section Heading?"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:118
+msgid "Are you sure you want to delete this instruction?"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:120 admin/meta-data/instructions.php:99
+#: admin/meta-data/instructions.php:173
+#: includes/class-blossom-recipe-taxonomy-thumbnail.php:48
+#: includes/class-blossom-recipe-taxonomy-thumbnail.php:100
+msgid "Add Image"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:122
+#: admin/class-blossom-recipe-admin.php:133 admin/meta-data/gallery.php:69
+#: admin/meta-data/instructions.php:99
+#: includes/class-blossom-recipe-taxonomy-thumbnail.php:93
+msgid "Change Image"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:130
+msgid "Are you sure you want to delete this image?"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:131
+#: includes/class-blossom-recipe-taxonomy-thumbnail.php:49
+#: includes/class-blossom-recipe-taxonomy-thumbnail.php:94
+#: includes/class-blossom-recipe-taxonomy-thumbnail.php:101
+msgid "Remove Image"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:156
+#: includes/class-blossom-recipe-settings.php:52
+msgid "Blossom Recipes"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:157
+#: admin/class-blossom-recipe-admin.php:183
+msgid "Blossom Recipe"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:158
+msgid "Blossom Recipe Archives"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:159
+msgid "Blossom Recipe Attributes"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:160
+msgid "Parent Blossom Recipe:"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:161
+msgid "All Recipes"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:162
+msgid "Add New Recipe"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:163
+msgid "Add New"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:164
+msgid "New Blossom Recipe"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:165
+msgid "Edit Blossom Recipe"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:166
+msgid "Update Blossom Recipe"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:167
+msgid "View Blossom Recipe"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:168
+msgid "View Blossom Recipes"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:169
+msgid "Search Blossom Recipe"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:170
+msgid "Not found"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:171
+msgid "Not found in Trash"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:172
+msgid "Featured Image"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:173
+msgid "Set featured image"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:174
+msgid "Remove featured image"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:175
+msgid "Use as featured image"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:176
+msgid "Insert into Blossom Recipe"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:177
+msgid "Uploaded to Blossom Recipe"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:178
+msgid "Blossom Recipes list"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:179
+msgid "Blossom Recipes list navigation"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:180
+msgid "Filter Blossom Recipes list"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:221
+msgid "Search Recipe Categories"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:222
+msgid "All Categories"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:223
+msgid "Parent Categories"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:224
+msgid "Parent Categories:"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:225
+msgid "Edit Categories"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:226
+msgid "Update Categories"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:227
+msgid "Add New Category"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:228
+msgid "New Category Name"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:229
+msgid "Categories"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:257
+msgid "Search Recipe Cuisines"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:258
+msgid "All Cuisines"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:259
+msgid "Parent Cuisines"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:260
+msgid "Parent Cuisines:"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:261
+msgid "Edit Cuisines"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:262
+msgid "Update Cuisines"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:263
+msgid "Add New Cuisine"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:264
+msgid "New Cuisine Name"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:265
+msgid "Cuisines"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:293
+msgid "Search Recipe Cooking Methods"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:294
+msgid "All Cooking Methods"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:295
+msgid "Parent Cooking Methods"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:296
+msgid "Parent Cooking Methods:"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:297
+msgid "Edit Cooking Methods"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:298
+msgid "Update Cooking Methods"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:299
+msgid "Add New Cooking Method"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:300
+msgid "New Cooking Method Name"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:301
+msgid "Cooking Methods"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:329
+msgid "Search Recipe Tags"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:330
+msgid "All Tags"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:333
+msgid "Edit Tags"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:334
+msgid "Update Tags"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:335
+msgid "Add New Tag"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:336
+msgid "New Tag Name"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:337
+#: includes/class-blossom-recipe-hook-functions.php:643
+#: includes/class-blossom-recipe-search-template.php:101
+#: includes/class-blossom-recipe-search-template.php:104
+msgid "Tags"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:354
+#: admin/meta-data/recipe-overview.php:28
+msgid "Recipe Shortcode"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:388
+msgid "Blossom Recipe Maker Admin Settings"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:388
+#: includes/class-blossom-recipe-settings.php:55
+msgid "Settings"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:461
+msgid "Category Template"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:462
+msgid "Cuisine Template"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:463
+msgid "Cooking Method Template"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:476
+msgid "Thumbnail"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:517
+msgid "All %s"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:537
+#: includes/widgets/widget-recipe-categories.php:186
+msgid "Choose Terms: (Press Ctrl to select Multiple Terms)"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:549
+#: admin/class-blossom-recipe-admin.php:595
+#: includes/widgets/widget-recipe-categories.php:198
+#: includes/widgets/widget-recipes-category-slider.php:285
+msgid ""
+"No Terms available. To set terms for %1$s, go to %2$sBlossom Recipes > "
+"%3$s%4$s and %5$sAdd the %6$s%7$s."
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:583
+#: includes/widgets/widget-recipes-category-slider.php:273
+msgid "Choose Taxonomy Term:"
+msgstr ""
+
+#: admin/class-blossom-recipe-meta-box.php:47
+msgid "Recipe Details"
+msgstr ""
+
+#: admin/class-blossom-recipe-permalinks.php:73
+msgid "Blossom Recipes base"
+msgstr ""
+
+#: admin/class-blossom-recipe-permalinks.php:80
+msgid "Recipe Category base"
+msgstr ""
+
+#: admin/class-blossom-recipe-permalinks.php:87
+msgid "Recipe Cuisine base"
+msgstr ""
+
+#: admin/class-blossom-recipe-permalinks.php:94
+msgid "Recipe Cooking Method base"
+msgstr ""
+
+#: admin/class-blossom-recipe-permalinks.php:101
+msgid "Recipe Tags base"
+msgstr ""
+
+#: admin/meta-data/blossom-recipe-tabs.php:3
+#: admin/meta-data/recipe-overview.php:17
+msgid "Overview"
+msgstr ""
+
+#: admin/meta-data/blossom-recipe-tabs.php:4 admin/meta-data/ingredients.php:17
+#: includes/class-blossom-recipe-hook-functions.php:401
+#: includes/templates/template-recipe-print.php:180
+msgid "Ingredients"
+msgstr ""
+
+#: admin/meta-data/blossom-recipe-tabs.php:5
+#: admin/meta-data/instructions.php:16
+#: includes/class-blossom-recipe-hook-functions.php:529
+#: includes/templates/template-recipe-print.php:245
+msgid "Instructions"
+msgstr ""
+
+#: admin/meta-data/blossom-recipe-tabs.php:6 admin/meta-data/gallery.php:16
+msgid "Gallery"
+msgstr ""
+
+#: admin/meta-data/blossom-recipe-tabs.php:7
+#: admin/meta-data/recipe-notes.php:17
+#: includes/templates/template-recipe-print.php:284
+msgid "Recipe Notes"
+msgstr ""
+
+#: admin/meta-data/blossom-recipe-tabs.php:8
+#: admin/meta-data/recipe-ratings.php:17
+msgid "Rating"
+msgstr ""
+
+#: admin/meta-data/gallery.php:23
+msgid "Enable Gallery"
+msgstr ""
+
+#: admin/meta-data/gallery.php:25
+msgid "Check this to enable gallery instead of featured image in single recipe."
+msgstr ""
+
+#: admin/meta-data/gallery.php:37
+msgid "YouTube or Vimeo Video:"
+msgstr ""
+
+#: admin/meta-data/gallery.php:38
+msgid ""
+"Paste a valid YouTube or Vimeo URL to display a video as the first item in "
+"single recipe."
+msgstr ""
+
+#: admin/meta-data/gallery.php:48
+msgid "Gallery Items"
+msgstr ""
+
+#: admin/meta-data/gallery.php:69
+msgid "Change image"
+msgstr ""
+
+#: admin/meta-data/gallery.php:86
+msgid "Add Image(s) to Recipe gallery"
+msgstr ""
+
+#: admin/meta-data/gallery.php:86 admin/meta-data/gallery.php:87
+msgid "Add Image(s)"
+msgstr ""
+
+#: admin/meta-data/ingredients.php:37
+msgid "Servings"
+msgstr ""
+
+#: admin/meta-data/ingredients.php:48
+msgid "QUANTITY"
+msgstr ""
+
+#: admin/meta-data/ingredients.php:49
+msgid "UNIT"
+msgstr ""
+
+#: admin/meta-data/ingredients.php:50
+msgid "INGREDIENT"
+msgstr ""
+
+#: admin/meta-data/ingredients.php:50
+msgid "*"
+msgstr ""
+
+#: admin/meta-data/ingredients.php:51
+msgid "NOTES"
+msgstr ""
+
+#: admin/meta-data/ingredients.php:204
+msgid "Add an Ingredient"
+msgstr ""
+
+#: admin/meta-data/ingredients.php:206 admin/meta-data/instructions.php:219
+msgid "Add Section Heading"
+msgstr ""
+
+#: admin/meta-data/instructions.php:38
+msgid "IMAGE"
+msgstr ""
+
+#: admin/meta-data/instructions.php:39
+msgid "INSTRUCTION"
+msgstr ""
+
+#: admin/meta-data/instructions.php:217
+msgid "Add an Instruction"
+msgstr ""
+
+#: admin/meta-data/recipe-notes.php:18
+msgid "Use this section to add recipe notes or anything you like."
+msgstr ""
+
+#: admin/meta-data/recipe-overview.php:29
+msgid "You can use this shortcode to display your Recipe in posts/pages."
+msgstr ""
+
+#: admin/meta-data/recipe-overview.php:56
+msgid "Difficulty Level"
+msgstr ""
+
+#: admin/meta-data/recipe-overview.php:61
+msgid "--Select--"
+msgstr ""
+
+#: admin/meta-data/recipe-overview.php:80
+msgid "Preparation Time (mins)"
+msgstr ""
+
+#: admin/meta-data/recipe-overview.php:89
+msgid "Cook Time (mins)"
+msgstr ""
+
+#: admin/meta-data/recipe-overview.php:98
+msgid "Total Time (mins)"
+msgstr ""
+
+#: admin/meta-data/recipe-ratings.php:18
+msgid "Use this section to add ratings to your recipe."
+msgstr ""
+
+#: admin/meta-data/recipe-ratings.php:25
+msgid "Rate this Recipe"
+msgstr ""
+
+#: includes/backend/settings/misc.php:19
+msgid "Global Recipe Toogles : "
+msgstr ""
+
+#: includes/backend/settings/misc.php:22
+msgid ""
+"You can quickly hide or show different recipe elements with these "
+"checkboxes."
+msgstr ""
+
+#: includes/backend/settings/misc.php:27
+msgid "Adjustable Servings : "
+msgstr ""
+
+#: includes/backend/settings/misc.php:29
+msgid "If checked it allows user to dynamically adjust the servings of recipes."
+msgstr ""
+
+#: includes/backend/settings/misc.php:42
+msgid "Featured Image : "
+msgstr ""
+
+#: includes/backend/settings/misc.php:44
+msgid "If checked it shows featured image on single page."
+msgstr ""
+
+#: includes/backend/settings/misc.php:57
+msgid "Recipes in Home Page : "
+msgstr ""
+
+#: includes/backend/settings/misc.php:59
+msgid ""
+"If checked Recipe posts will show up on your front page and author archive "
+"page."
+msgstr ""
+
+#: includes/backend/settings/misc.php:75
+msgid "Print Button Text : "
+msgstr ""
+
+#: includes/backend/settings/misc.php:77
+msgid "Print Recipe"
+msgstr ""
+
+#: includes/backend/settings/misc.php:77
+msgid "Print button label"
+msgstr ""
+
+#: includes/backend/settings/misc.php:86
+msgid "Recipes Per Page : "
+msgstr ""
+
+#: includes/backend/settings/misc.php:89
+msgid "Select the number of recipes to display in all Recipe Templates."
+msgstr ""
+
+#: includes/backend/settings/search.php:49
+msgid "Blossom Recipe Search Shortcode"
+msgstr ""
+
+#: includes/backend/settings/search.php:52
+msgid "Use below shortcode to display Recipe Search Bar."
+msgstr ""
+
+#: includes/backend/settings/search.php:60
+msgid "Recipe Search Results Page "
+msgstr ""
+
+#: includes/backend/settings/search.php:63
+msgid ""
+"This is the recipe search result page where "
+"[BLOSSOM_RECIPE_MAKER_SEARCH_RESULTS] shortcode is required."
+msgstr ""
+
+#: includes/backend/settings/search.php:72
+msgid "&mdash; Select &mdash;"
+msgstr ""
+
+#: includes/backend/settings/search.php:82
+msgid "Blossom Recipe Search Fields"
+msgstr ""
+
+#: includes/backend/settings/search.php:83
+msgid "Check the above checkboxes to hide the fields from the recipe search form."
+msgstr ""
+
+#: includes/backend/settings/search.php:89
+msgid "Hide Category : "
+msgstr ""
+
+#: includes/backend/settings/search.php:96
+msgid "Hide Cuisine : "
+msgstr ""
+
+#: includes/backend/settings/search.php:102
+msgid "Hide Cooking Method : "
+msgstr ""
+
+#: includes/backend/settings/search.php:108
+msgid "Hide Tags : "
+msgstr ""
+
+#: includes/backend/settings/shortcodes.php:17
+msgid "Recent Recipes Shortcode"
+msgstr ""
+
+#: includes/backend/settings/shortcodes.php:20
+msgid "Use below shortcode to display Recent Recipes anywhere in your website."
+msgstr ""
+
+#: includes/backend/settings/shortcodes.php:29
+msgid "Popular Recipes Shortcode"
+msgstr ""
+
+#: includes/backend/settings/shortcodes.php:32
+msgid "Use below shortcode to display Popular Recipes anywhere in your website."
+msgstr ""
+
+#: includes/backend/settings/shortcodes.php:35
+msgid "Popular Recipes by Views"
+msgstr ""
+
+#: includes/backend/settings/shortcodes.php:39
+msgid "Popular Recipes by Comments"
+msgstr ""
+
+#: includes/backend/settings/shortcodes.php:45
+msgid "replace the title and num_posts values as per your need."
+msgstr ""
+
+#: includes/class-blossom-recipe-archive-hook-functions.php:103
+#: includes/templates/recipe-search-results.php:177
+msgid "View Recipe"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:36
+#: includes/templates/archive-blossom-recipe.php:36
+msgid "Previous"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:37
+#: includes/templates/archive-blossom-recipe.php:37
+msgid "Next"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:47
+msgid "Easy"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:48
+msgid "Medium"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:49
+msgid "Difficult"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:77
+msgid "gram"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:78
+msgid "grams"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:83
+msgid "kilogram"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:84
+msgid "kilograms"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:87
+#: includes/class-blossom-recipe-functions.php:88
+msgid "mg"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:89
+msgid "milligram"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:90
+msgid "milligrams"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:93
+#: includes/class-blossom-recipe-functions.php:94
+msgid "oz"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:95
+msgid "ounce"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:96
+msgid "ounces"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:99
+#: includes/class-blossom-recipe-functions.php:100
+msgid "fl oz"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:101
+msgid "fluid ounce"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:102
+msgid "fluid ounces"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:105
+#: includes/class-blossom-recipe-functions.php:107
+msgid "cup"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:106
+#: includes/class-blossom-recipe-functions.php:108
+msgid "cups"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:111
+#: includes/class-blossom-recipe-functions.php:112
+msgid "tsp"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:113
+msgid "teaspoon"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:114
+msgid "teaspoons"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:117
+#: includes/class-blossom-recipe-functions.php:118
+msgid "tbsp"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:119
+msgid "tablespoon"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:120
+msgid "tablespoons"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:123
+#: includes/class-blossom-recipe-functions.php:124
+msgid "ml"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:125
+msgid "milliliter"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:126
+msgid "milliliters"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:129
+#: includes/class-blossom-recipe-functions.php:130
+msgid "l"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:131
+msgid "liter"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:132
+msgid "liters"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:135
+#: includes/class-blossom-recipe-functions.php:137
+msgid "stick"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:136
+#: includes/class-blossom-recipe-functions.php:138
+msgid "sticks"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:141
+msgid "lb"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:142
+msgid "lbs"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:143
+msgid "pound"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:144
+msgid "pounds"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:147
+#: includes/class-blossom-recipe-functions.php:149
+msgid "dash"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:148
+#: includes/class-blossom-recipe-functions.php:150
+msgid "dashes"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:153
+#: includes/class-blossom-recipe-functions.php:155
+msgid "drop"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:154
+#: includes/class-blossom-recipe-functions.php:156
+msgid "drops"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:159
+msgid "gal"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:160
+msgid "gals"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:161
+msgid "gallon"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:162
+msgid "gallons"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:165
+#: includes/class-blossom-recipe-functions.php:167
+msgid "pinch"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:166
+#: includes/class-blossom-recipe-functions.php:168
+msgid "pinches"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:171
+#: includes/class-blossom-recipe-functions.php:172
+msgid "pt"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:173
+msgid "pint"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:174
+msgid "pints"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:177
+msgid "qt"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:178
+msgid "qts"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:179
+msgid "quart"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:180
+msgid "quarts"
+msgstr ""
+
+#: includes/class-blossom-recipe-hook-functions.php:51
+msgid "Ratings: "
+msgstr ""
+
+#: includes/class-blossom-recipe-hook-functions.php:96
+msgid "Author: "
+msgstr ""
+
+#: includes/class-blossom-recipe-hook-functions.php:107
+#: includes/templates/template-recipe-print.php:58
+msgid "Category: "
+msgstr ""
+
+#: includes/class-blossom-recipe-hook-functions.php:117
+#: includes/templates/template-recipe-print.php:72
+msgid "Cuisine: "
+msgstr ""
+
+#: includes/class-blossom-recipe-hook-functions.php:126
+#: includes/templates/template-recipe-print.php:86
+msgid "Cooking Method: "
+msgstr ""
+
+#: includes/class-blossom-recipe-hook-functions.php:165
+msgid " Hr "
+msgstr ""
+
+#: includes/class-blossom-recipe-hook-functions.php:170
+msgid " Mins"
+msgstr ""
+
+#: includes/class-blossom-recipe-hook-functions.php:198
+msgid "Yields: "
+msgstr ""
+
+#: includes/class-blossom-recipe-hook-functions.php:202
+msgid " Serving"
+msgstr ""
+
+#: includes/class-blossom-recipe-hook-functions.php:203
+msgid " Servings"
+msgstr ""
+
+#: includes/class-blossom-recipe-hook-functions.php:217
+#: includes/templates/template-recipe-print.php:44
+msgid "Difficulty: "
+msgstr ""
+
+#: includes/class-blossom-recipe-hook-functions.php:237
+#: includes/templates/template-recipe-print.php:122
+msgid "Prep Time: "
+msgstr ""
+
+#: includes/class-blossom-recipe-hook-functions.php:253
+#: includes/templates/template-recipe-print.php:139
+msgid "Cook Time: "
+msgstr ""
+
+#: includes/class-blossom-recipe-hook-functions.php:271
+#: includes/templates/template-recipe-print.php:156
+msgid "Total Time: "
+msgstr ""
+
+#: includes/class-blossom-recipe-hook-functions.php:410
+#: includes/class-blossom-recipe-hook-functions.php:534
+msgid "/"
+msgstr ""
+
+#: includes/class-blossom-recipe-hook-functions.php:411
+msgid " Ingredients"
+msgstr ""
+
+#: includes/class-blossom-recipe-hook-functions.php:433
+msgid "Adjust Servings"
+msgstr ""
+
+#: includes/class-blossom-recipe-hook-functions.php:535
+msgid " Instructions"
+msgstr ""
+
+#: includes/class-blossom-recipe-hook-functions.php:576
+msgid "Step "
+msgstr ""
+
+#: includes/class-blossom-recipe-hook-functions.php:619
+msgid "Notes"
+msgstr ""
+
+#: includes/class-blossom-recipe-print-functions.php:73
+msgid "Print"
+msgstr ""
+
+#: includes/class-blossom-recipe-search-template.php:28
+msgid "Search for a Recipe"
+msgstr ""
+
+#: includes/class-blossom-recipe-search-template.php:35
+msgid "Keyword"
+msgstr ""
+
+#: includes/class-blossom-recipe-search-template.php:36
+msgid "Search …"
+msgstr ""
+
+#: includes/class-blossom-recipe-search-template.php:41
+#: includes/class-blossom-recipe-search-template.php:44
+msgid "Category"
+msgstr ""
+
+#: includes/class-blossom-recipe-search-template.php:61
+#: includes/class-blossom-recipe-search-template.php:64
+msgid "Cuisine"
+msgstr ""
+
+#: includes/class-blossom-recipe-search-template.php:81
+#: includes/class-blossom-recipe-search-template.php:84
+msgid "Cooking Method"
+msgstr ""
+
+#: includes/class-blossom-recipe-search-template.php:121
+msgid "Search"
+msgstr ""
+
+#: includes/class-blossom-recipe-settings.php:44
+msgid "Your settings have been saved."
+msgstr ""
+
+#: includes/class-blossom-recipe-settings.php:44
+msgid "Dismiss this notice."
+msgstr ""
+
+#: includes/class-blossom-recipe-taxonomy-thumbnail.php:44
+#: includes/class-blossom-recipe-taxonomy-thumbnail.php:74
+msgid "Image"
+msgstr ""
+
+#: includes/templates/archive-blossom-recipe.php:38
+msgid "Page"
+msgstr ""
+
+#: includes/templates/recipe-search-results.php:127
+msgid " recipe(s) found"
+msgstr ""
+
+#: includes/templates/recipe-search-results.php:127
+msgid "No results found!"
+msgstr ""
+
+#: includes/templates/single-blossom-recipe.php:93
+#. translators: %s: Name of current post
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: includes/templates/template-recipe-category.php:117
+#: includes/templates/template-recipe-cooking-method.php:116
+#: includes/templates/template-recipe-cuisine.php:116
+msgid "See More Recipes"
+msgstr ""
+
+#: includes/templates/template-recipe-print.php:105
+msgid "Servings: "
+msgstr ""
+
+#: includes/templates/template-recipe-print.php:111
+msgid "yield(s)"
+msgstr ""
+
+#: includes/templates/template-recipe-print.php:128
+#: includes/templates/template-recipe-print.php:145
+#: includes/templates/template-recipe-print.php:162
+msgid "mins"
+msgstr ""
+
+#: includes/widgets/widget-popular-recipe.php:28
+msgid "Blossom Recipe: Popular Recipes"
+msgstr ""
+
+#: includes/widgets/widget-popular-recipe.php:29
+msgid "A Popular Recipe Widget"
+msgstr ""
+
+#: includes/widgets/widget-popular-recipe.php:65
+msgid "0 View"
+msgstr ""
+
+#: includes/widgets/widget-popular-recipe.php:67
+msgid " View"
+msgstr ""
+
+#: includes/widgets/widget-popular-recipe.php:69
+msgid " Views"
+msgstr ""
+
+#: includes/widgets/widget-popular-recipe.php:83
+#: includes/widgets/widget-popular-recipe.php:207
+msgid "Popular Recipes"
+msgstr ""
+
+#: includes/widgets/widget-popular-recipe.php:152
+#: includes/widgets/widget-recent-recipe.php:93
+#: includes/widgets/widget-recipes-category-slider.php:123
+msgid "View all posts in %s"
+msgstr ""
+
+#: includes/widgets/widget-popular-recipe.php:191
+#: includes/widgets/widget-recent-recipe.php:127
+msgid "Style One"
+msgstr ""
+
+#: includes/widgets/widget-popular-recipe.php:192
+#: includes/widgets/widget-recent-recipe.php:128
+msgid "Style Two"
+msgstr ""
+
+#: includes/widgets/widget-popular-recipe.php:193
+#: includes/widgets/widget-recent-recipe.php:129
+msgid "Style Three"
+msgstr ""
+
+#: includes/widgets/widget-popular-recipe.php:219
+#: includes/widgets/widget-recent-recipe.php:152
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/widget-popular-recipe.php:224
+#: includes/widgets/widget-recent-recipe.php:157
+msgid "Number of Posts"
+msgstr ""
+
+#: includes/widgets/widget-popular-recipe.php:229
+msgid "Popular based on:"
+msgstr ""
+
+#: includes/widgets/widget-popular-recipe.php:231
+msgid "Post Views"
+msgstr ""
+
+#: includes/widgets/widget-popular-recipe.php:232
+msgid "Comment Count"
+msgstr ""
+
+#: includes/widgets/widget-popular-recipe.php:237
+#: includes/widgets/widget-recent-recipe.php:162
+msgid "Layout:"
+msgstr ""
+
+#: includes/widgets/widget-popular-recipe.php:253
+#: includes/widgets/widget-recent-recipe.php:177
+msgid "Show Post Thumbnail"
+msgstr ""
+
+#: includes/widgets/widget-popular-recipe.php:258
+#: includes/widgets/widget-recent-recipe.php:182
+msgid "Show Post Date"
+msgstr ""
+
+#: includes/widgets/widget-popular-recipe.php:263
+#: includes/widgets/widget-recent-recipe.php:187
+#: includes/widgets/widget-recipes-category-slider.php:335
+msgid "Open Recipes in New Tab"
+msgstr ""
+
+#: includes/widgets/widget-popular-recipe.php:282
+msgid "Recent Posts"
+msgstr ""
+
+#: includes/widgets/widget-recent-recipe.php:25
+msgid "Blossom Recipe: Recent Recipes"
+msgstr ""
+
+#: includes/widgets/widget-recent-recipe.php:26
+msgid "A Recent Recipe Widget"
+msgstr ""
+
+#: includes/widgets/widget-recent-recipe.php:39
+#: includes/widgets/widget-recent-recipe.php:143
+#: includes/widgets/widget-recent-recipe.php:206
+msgid "Recent Recipes"
+msgstr ""
+
+#: includes/widgets/widget-recent-recipe.php:104
+msgid "%1$s"
+msgstr ""
+
+#: includes/widgets/widget-recipe-categories.php:23
+msgid "Blossom Recipe: Recipe Categories"
+msgstr ""
+
+#: includes/widgets/widget-recipe-categories.php:26
+msgid "Widget to display recipe categories with Image and Posts Count"
+msgstr ""
+
+#: includes/widgets/widget-recipe-categories.php:34
+msgid "Recipe Category"
+msgstr ""
+
+#: includes/widgets/widget-recipe-categories.php:35
+msgid "Recipe Cuisine"
+msgstr ""
+
+#: includes/widgets/widget-recipe-categories.php:36
+msgid "Recipe Cooking Method"
+msgstr ""
+
+#: includes/widgets/widget-recipe-categories.php:96
+#: includes/widgets/widget-recipe-categories.php:105
+msgid " Recipe(s)"
+msgstr ""
+
+#: includes/widgets/widget-recipe-categories.php:140
+msgid "Recipe Categories"
+msgstr ""
+
+#: includes/widgets/widget-recipe-categories.php:160
+#: includes/widgets/widget-recipes-category-slider.php:246
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/widget-recipe-categories.php:165
+#: includes/widgets/widget-recipes-category-slider.php:251
+msgid "Choose Recipe Taxonomy:"
+msgstr ""
+
+#: includes/widgets/widget-recipe-categories.php:171
+#: includes/widgets/widget-recipes-category-slider.php:257
+msgid "--Select Taxonomy--"
+msgstr ""
+
+#: includes/widgets/widget-recipe-categories.php:227
+msgid ""
+"To set thumbnail for categories, go to %1$sBlossom Recipes > Categories%2$s "
+"and %3$sEdit%4$s the categories."
+msgstr ""
+
+#: includes/widgets/widget-recipe-categories.php:231
+msgid "Open Recipes in new Tab"
+msgstr ""
+
+#: includes/widgets/widget-recipes-category-slider.php:24
+msgid "Blossom Recipe: Recipes Category Slider"
+msgstr ""
+
+#: includes/widgets/widget-recipes-category-slider.php:27
+msgid "Simple recipes slider from category."
+msgstr ""
+
+#: includes/widgets/widget-recipes-category-slider.php:206
+msgid "Recipes Category Slider"
+msgstr ""
+
+#: includes/widgets/widget-recipes-category-slider.php:313
+msgid "Number of Slides:"
+msgstr ""
+
+#: includes/widgets/widget-recipes-category-slider.php:315
+msgid ""
+"Total number of posts available in the selected category will be the "
+"maximum number of slides."
+msgstr ""
+
+#: includes/widgets/widget-recipes-category-slider.php:320
+msgid "Show Slider Arrows"
+msgstr ""
+
+#: includes/widgets/widget-recipes-category-slider.php:325
+msgid "Show Slider Pagination"
+msgstr ""
+
+#: includes/widgets/widget-recipes-category-slider.php:330
+msgid "Change Direction"
+msgstr ""
+
+#: includes/widgets/widget-recipes-category-slider.php:331
+msgid ""
+"Enabling this will change slider direction from 'right to left' to 'left to "
+"right'."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Blossom Recipe Maker"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "test.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Blossom Recipe Maker is a free Recipe Plugin to create recipes for any food "
+"blog."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "blossomthemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://blossomthemes.com/"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:154
+msgctxt "Post Type General Name"
+msgid "Recipes"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:155
+msgctxt "Post Type Singular Name"
+msgid "Blossom Recipe"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:219
+msgctxt "taxonomy general name"
+msgid "Recipe Categories"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:255
+msgctxt "taxonomy general name"
+msgid "Recipe Cuisines"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:291
+msgctxt "taxonomy general name"
+msgid "Recipe Cooking Methods"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:327
+msgctxt "taxonomy general name"
+msgid "Recipe Tags"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:220
+msgctxt "taxonomy singular name"
+msgid "Recipe Category"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:256
+msgctxt "taxonomy singular name"
+msgid "Recipe Cuisine"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:292
+msgctxt "taxonomy singular name"
+msgid "Recipe Cooking Method"
+msgstr ""
+
+#: admin/class-blossom-recipe-admin.php:328
+msgctxt "taxonomy singular name"
+msgid "Recipe Tag"
+msgstr ""
+
+#: admin/class-blossom-recipe-permalinks.php:115
+msgctxt "slug"
+msgid "recipes"
+msgstr ""
+
+#: admin/class-blossom-recipe-permalinks.php:125
+msgctxt "slug"
+msgid "recipe-category"
+msgstr ""
+
+#: admin/class-blossom-recipe-permalinks.php:135
+msgctxt "slug"
+msgid "recipe-cuisine"
+msgstr ""
+
+#: admin/class-blossom-recipe-permalinks.php:145
+msgctxt "slug"
+msgid "recipe-cooking-method"
+msgstr ""
+
+#: admin/class-blossom-recipe-permalinks.php:155
+msgctxt "slug"
+msgid "recipe-tag"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:75
+msgctxt "Grams Abbreviation (Singular)"
+msgid "g"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:76
+msgctxt "Grams Abbreviation (Plural)"
+msgid "g"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:81
+msgctxt "Kilograms Abbreviation (Singular)"
+msgid "kg"
+msgstr ""
+
+#: includes/class-blossom-recipe-functions.php:82
+msgctxt "Kilograms Abbreviation (Plural)"
+msgid "kg"
+msgstr ""
