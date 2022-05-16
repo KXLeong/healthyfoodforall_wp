@@ -20,10 +20,10 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'nomisite_wp824' );
+define( 'DB_NAME', 'nomisite_healthyfoodforall' );
 
 /** Database username */
-define( 'DB_USER', 'nomisite_wp824' );
+define( 'DB_USER', 'nomisite_healthyfoodforall' );
 
 /** Database password */
 define( 'DB_PASSWORD', '74BpSo8]T!' );
